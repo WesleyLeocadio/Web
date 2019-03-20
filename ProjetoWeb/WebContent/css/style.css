@@ -1,0 +1,99 @@
+/*GERAL
+-------------------------------------------*/
+.row {
+	width: 100%;
+	float: left;
+	margin-bottom: 50px;
+}
+
+.content {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+/* header
+---------------------------------------------------
+*/
+.header {
+	padding: 10px 0;
+	margin-bottom: 5px;
+}
+
+.header-logo {
+	float: left;
+}
+
+.header-logo h1 {
+	color: #959595;
+}
+
+.header-logo h1  span.logo1 {
+	color: #016fba;
+}
+
+.header-logo h1  span.logo2 {
+	color: #e54d26;
+}
+
+.header-menu {
+	float: right;
+	padding: 10px 0;
+}
+
+.header-menu ul li {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+/* bemvindo
+---------------------------------------------------
+*/
+.bem-vindo {
+	background-color: #016fba;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.bem-vindo .content {
+	width: 620px;
+}
+
+.bem-vindo .content h1 {
+	color: #fff;
+}
+
+.interface {
+	width: 1150px;
+	height: 600px; background-color : #ffffff;
+	margin: -20px auto 0px auto;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+	padding: 10px;
+	background-color: #ffffff;
+	border: 1px;
+}
+
+table#tabelaesp {
+	border: 1px solid #606060;
+	width: 100%;
+		background-color: #ffffff;
+	
+}
+
+table#tabelaesp td {
+	border: 1px solid #606060;
+	padding: 15px;
+}
+table#tabelaesp th {
+	border: 1px solid #606060;
+	padding: 15px;
+	font-size: 16px;
+}
+
+/* footer
+---------------------------------------------------
+*/
+.footer {
+	text-align: center;
+	padding: 10px 0;
+	margin-bottom: 5px;
+}
